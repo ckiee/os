@@ -1,0 +1,3 @@
+[submodule "os-tutorial"]
+	path = os-tutorial
+	url = git@github.com:cfenollosa/os-tutorial.git
